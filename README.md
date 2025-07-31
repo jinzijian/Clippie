@@ -28,3 +28,11 @@ clippie run \
   --competitor-scripts ./samples/ \
   --platform tiktok \
   --output ./output/
+
+## 📃 License
+
+Clippie is licensed under the Apache 2.0 License.  
+You are free to use, modify, and distribute it, including for commercial purposes.
+
+See the [LICENSE](./LICENSE) file for details.
+
